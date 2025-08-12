@@ -1,0 +1,46 @@
+.head1{
+    text-align: right;
+    color: #16365d
+    font-family: Arial;
+
+}
+
+p, li {
+    color: #16365d;
+     font-family: Arial;
+
+}
+ list1{
+    list-style-type: square;
+    color: red
+    font-family: Arial;
+    
+
+}
+
+
+.head3{
+    text-align: center;
+    border: 1px solid red
+    width: 500px;
+    height: 60px;
+   border-bottom-color: black;
+    border-bottom-color: red;
+    font-size: 20px;
+    color: #16365d;
+}
+
+
+.par1 {
+    color: #16365d;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+.par2
+{
+    color: #16365d;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: underline;
+}
